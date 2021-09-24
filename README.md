@@ -1,4 +1,5 @@
-### Hi there 👋
+### Kyle Kogami
+### Grad student at University of the Pacific
 
 <!--
 **kkogami/kkogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
